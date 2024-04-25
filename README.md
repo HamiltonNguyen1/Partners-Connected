@@ -4,17 +4,16 @@ Partners Connected is a program that allows any school to store and collect info
 - Filter & Search Partners
 - Add & Remove Partners
 - Help Menu Chat Bot with Instructions
+- Dynamic Backup System
 # System Requirements
 - Windows 10
-- Any Python IDE
 - Internet (Only for Chat Bot & Websites)
-- Approximately 10 MB Of Storage
+- Approximately 30 MB Of Storage
 # Installation Guide
-- Download & Open main.py
-- Create partnersBackupDatabase.db and partnersDatabase.db by doing the following
-- 1. instructions
-- Set up your email and code for the chat bot
-- In the files, download Partners.png and questionMark.png and move them to the files in the IDE.
-- You are golden.
+- Press on the green "Code" button and below, press Download ZIP
+- Extract the file
+- Navigate to the "main" file and open main (Application)
+- Click on More Info and Run Anyway
+- If you want the Chatbot to link to your email, look at line 296 and change the email to your information
 # Need help?
-contact me
+Contact me at heritagehelpdepartment@gmail.com
